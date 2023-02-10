@@ -26,7 +26,6 @@
       "image": "https://www.bofrost.es/writable/products/images-v2/01774.jpg"
     },
     {
-	@@ -27,7 +25,7 @@
       "id": 4,
       "name": "Con champiñones",
       "ingredients": "Cebolla, pollo y champiñones.",
@@ -34,7 +33,6 @@
       "image": "https://unareceta.com/wp-content/uploads/2014/05/pizza-de-champin%CC%83ones.jpg"
     },
     {
-	@@ -48,21 +46,21 @@
       "id": 7,
       "name": "Napolitana",
       "ingredients": "Queso, anchoas, alcaparras y ajo.",
@@ -56,7 +54,6 @@
       "image": "https://d320djwtwnl5uo.cloudfront.net/recetas/cover/fugaz_9AZICtTMHNiBKq3vVgj6Qz4hD1F0c2.png"
     },
     {
-	@@ -73,20 +71,91 @@
       "image": "https://www.schaer.com/sites/default/files/styles/landscape_lg/public/2022-04/SCHAR_PRODOTTI_PIZZA_PROSCIUTTO%26FUNGHI.jpg?h=c8fb6be6&itok=ciTvBdI1"
     }
   ],
@@ -148,7 +145,6 @@
       "image": "https://www.bofrost.es/writable/products/images-v2/01774.jpg"
     },
     {
-	@@ -100,14 +169,14 @@
       "id": 4,
       "name": "Spaguetti al ragù",
       "ingredients": "Sin tomate con carne cocía en vino blanco y leche.",
@@ -163,7 +159,6 @@
       "image": "https://media.traveler.es/photos/63563f7e53805dbdd51dd12b/master/w_640,c_limit/BT9MEJ.jpg"
     },
     {
-	@@ -121,7 +190,7 @@
       "id": 7,
       "name": "Penne rigate",
       "ingredients": "Tomate, ajo chile rojo o cayena y aceite de oliva.",
@@ -171,7 +166,6 @@
       "image": "https://media.traveler.es/photos/6356425453805dbdd51dd131/master/w_640,c_limit/WT9RF5.jpg"
     },
     {
-	@@ -135,151 +204,149 @@
       "id": 9,
       "name": "Tortelli di zucca",
       "ingredients": "Rellenos de calabaza hervida, amaretti, mostaza, queso parmesano y nuez moscada.",
