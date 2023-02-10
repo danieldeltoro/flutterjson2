@@ -108,6 +108,78 @@
       "image": "https://media.traveler.es/photos/635641fa93bb785c9cec6bc0/master/w_960,c_limit/iStock-479271670.jpg"
     }
   ],
+   "lasagne": [
+    {
+      "id": 1,
+      "name": "Lasaña boloñesa",
+      "ingredients": "Todo un clásico.",
+      "price": 6.5,
+      "image": "https://www.lavanguardia.com/files/image_607_298/uploads/2019/07/25/5e9983cfae42e.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Lasaña de salmón y verduras",
+      "ingredients": "Salsa bechamel, pimientos, calabacín, zanahoria y cebolla. ",
+      "price": 7.5,
+      "image": "https://www.lavanguardia.com/files/image_607_298/uploads/2020/11/20/5fc646ccbdc92.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Lasaña con foie",
+      "ingredients": "Champiñones y jamón.",
+      "price": 8.15,
+      "image": "https://www.irenecocinaparati.com/wp-content/uploads/2019/09/IMG_8098-2-740x987.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Mini lasaña fría de mozzarella",
+      "ingredients": "Se parece más a una ensalada de pasta que a una lasaña tradicional",
+      "price": 7.50,
+      "image": "https://www.lavanguardia.com/files/image_607_298/uploads/2020/06/15/5ee7403741791.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Lasaña de berenjenas",
+      "ingredients": "Berenjenas, salsa de tomate,mozzarella y pasta.",
+      "price": 7.45,
+      "image": "https://www.lavanguardia.com/files/image_607_298/uploads/2019/07/18/5e9981f8a47c0.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Marinara",
+      "ingredients": "Salsa marinera y orégano.",
+      "price": 7.25,
+      "image": "https://tupizzaiolo.com/wp-content/uploads/2021/12/d437c913df5349a9adce597d1924f310-min.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Napolitana",
+      "ingredients": "Queso, anchoas, alcaparras y ajo.",
+      "price": 8.5,
+      "image": "https://cdn0.recetasgratis.net/es/posts/5/2/6/pizza_napolitana_32625_orig.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Neoyorquina",
+      "ingredients": "Queso, verdura y jamón.",
+      "price": 7.9,
+      "image": "http://www.restaurantcentrevila.com/wp-content/uploads/2018/08/pizza.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Fugazza ",
+      "ingredients": "Cebello, aceitunas y queso.",
+      "price": 6.9,
+      "image": "https://d320djwtwnl5uo.cloudfront.net/recetas/cover/fugaz_9AZICtTMHNiBKq3vVgj6Qz4hD1F0c2.png"
+    },
+    {
+      "id": 10,
+      "name": "Prosciutto",
+      "ingredients": "Jamón y queso.",
+      "price": 7.75,
+      "image": "https://www.schaer.com/sites/default/files/styles/landscape_lg/public/2022-04/SCHAR_PRODOTTI_PIZZA_PROSCIUTTO%26FUNGHI.jpg?h=c8fb6be6&itok=ciTvBdI1"
+    }
+  ],
   "drinks": [
     {
       "id": 1,
