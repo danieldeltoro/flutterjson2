@@ -13,12 +13,12 @@
       "id": 1,
       "name": "Lasaña boloñesa",
       "ingredients": "Todo un clásico.",
-      "price": 6.5,
+      "price": 6.50,
       "image": "https://www.lavanguardia.com/files/image_607_298/uploads/2019/07/25/5e9983cfae42e.jpeg"
     },
     {
       "id": 2,
-      "name": "Lasaña de salmón y verduras",
+      "name": "Lasaña de verduras",
       "ingredients": "Salsa bechamel, pimientos, calabacín, zanahoria y cebolla. ",
       "price": 7.5,
       "image": "https://www.lavanguardia.com/files/image_607_298/uploads/2020/11/20/5fc646ccbdc92.jpeg"
