@@ -32,7 +32,7 @@
     },
     {
       "id": 4,
-      "name": "Mini lasaña fría de mozzarella",
+      "name": "Mini lasaña mozzarella",
       "ingredients": "Se parece más a una ensalada de pasta que a una lasaña tradicional",
       "price": 7.50,
       "image": "https://www.lavanguardia.com/files/image_607_298/uploads/2020/06/15/5ee7403741791.jpeg"
@@ -40,7 +40,7 @@
     {
       "id": 5,
       "name": "Lasaña de berenjenas",
-      "ingredients": "Berenjenas, salsa de tomate,mozzarella y pasta.",
+      "ingredients": "Berenjenas, salsa de tomate, mozzarella y pasta.",
       "price": 7.45,
       "image": "https://www.lavanguardia.com/files/image_607_298/uploads/2019/07/18/5e9981f8a47c0.jpeg"
     }
