@@ -8,53 +8,15 @@
   "profile": {
     "name": "typicode"
   },
-       "pizzas": [
-      {
-        "id": 1,
-        "name": "Margarita",
-        "ingredients": "Tomate y orégano.",
-        "price": 7.5,
-        "image": "https://www.schaer.com/sites/default/files/styles/landscape_lg/public/2022-04/SCHAR_PRODOTTI_PIZZA_PROSCIUTTO%26FUNGHI.jpg?h=c8fb6be6&itok=ciTvBdI1"
-      },
-      {
-        "id": 2,
-        "name": "Cuatro quesos",
-        "ingredients": "Queso mozzarella, crema, cheddar y parmesano.",
-        "price": 8.2,
-        "image": "https://www.bofrost.es/writable/products/images-v2/01774.jpg"
-      },
-      {
-        "id": 4,
-        "name": "Con champiñones",
-        "ingredients": "Cebolla, pollo y champiñones.",
-        "price": 7.9,
-        "image": "https://unareceta.com/wp-content/uploads/2014/05/pizza-de-champin%CC%83ones.jpg"
-      },
-      {
-        "id": 7,
-        "name": "Napolitana",
-        "ingredients": "Queso, anchoas, alcaparras y ajo.",
-        "price": 8.50,
-        "image": "https://cdn0.recetasgratis.net/es/posts/5/2/6/pizza_napolitana_32625_orig.jpg"
-      },
-      {
-        "id": 8,
-        "name": "Neoyorquina",
-        "ingredients": "Queso, verdura y jamón.",
-        "price": 7.99,
-        "image": "http://www.restaurantcentrevila.com/wp-content/uploads/2018/08/pizza.jpg"
-      },
-      {
-        "id": 9,
-        "name": "Fugazza ",
-        "ingredients": "Cebello, aceitunas y queso.",
-        "price": 6.99,
-        "image": "https://d320djwtwnl5uo.cloudfront.net/recetas/cover/fugaz_9AZICtTMHNiBKq3vVgj6Qz4hD1F0c2.png"
-      },
-      {
-        "image": "https://www.schaer.com/sites/default/files/styles/landscape_lg/public/2022-04/SCHAR_PRODOTTI_PIZZA_PROSCIUTTO%26FUNGHI.jpg?h=c8fb6be6&itok=ciTvBdI1"
-      }
-    ]
+       "lasagne": [
+    {
+      "id": 1,
+      "name": "Lasaña boloñesa",
+      "ingredients": "Todo un clásico.",
+      "price": 6.5,
+      "image": "https://www.lavanguardia.com/files/image_607_298/uploads/2019/07/25/5e9983cfae42e.jpeg"
+    }
+         ]
 }
 
   
