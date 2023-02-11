@@ -49,7 +49,7 @@
     {
       "id": 1,
       "name": "Fetuccini puttanesca",
-      "ingredients": "Ajo, tomate, guindillas secas, aceite oliva y anchoas en salmuera.",
+      "ingredients": "Ajo, tomate, guindillas, aceite oliva y anchoas en salmuera.",
       "price": 6.5,
       "image": "http://4.bp.blogspot.com/-suPHHK5qPWE/UlRLp4CxqoI/AAAAAAAAAHk/clwTlJ8OzTQ/s1600/Slide2.BMP"
     },
@@ -105,14 +105,14 @@
     {
       "id": 9,
       "name": "Tortelli di zucca",
-      "ingredients": "Rellenos de calabaza hervida, amaretti, mostaza, queso parmesano y nuez moscada.",
+      "ingredients": "Calabaza hervida, amaretti, mostaza, queso parmesano y nuez moscada.",
       "price": 8.7,
       "image": "https://media.traveler.es/photos/6356416e93bb785c9cec6bbe/master/w_640,c_limit/D79K0T.jpg"
     },
     {
       "id": 10,
       "name": "Spaguetii carbonara",
-      "ingredients": "Huevos, queso permesano, aceite de oliva, guanciale y pimienta negra.",
+      "ingredients": "Huevos, queso permesano, oliva, guanciale y pimienta negra.",
       "price": 6.8,
       "image": "https://media.traveler.es/photos/635641fa93bb785c9cec6bc0/master/w_960,c_limit/iStock-479271670.jpg"
     }
