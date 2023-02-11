@@ -8,15 +8,41 @@
   "profile": {
     "name": "typicode"
   },
-       "lasagne": [
+  "lasagne": [
     {
       "id": 1,
       "name": "Lasaña boloñesa",
       "ingredients": "Todo un clásico.",
       "price": 6.5,
       "image": "https://www.lavanguardia.com/files/image_607_298/uploads/2019/07/25/5e9983cfae42e.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Lasaña de salmón y verduras",
+      "ingredients": "Salsa bechamel, pimientos, calabacín, zanahoria y cebolla. ",
+      "price": 7.5,
+      "image": "https://www.lavanguardia.com/files/image_607_298/uploads/2020/11/20/5fc646ccbdc92.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Lasaña con foie",
+      "ingredients": "Champiñones y jamón.",
+      "price": 8.15,
+      "image": "https://www.irenecocinaparati.com/wp-content/uploads/2019/09/IMG_8098-2-740x987.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Mini lasaña fría de mozzarella",
+      "ingredients": "Se parece más a una ensalada de pasta que a una lasaña tradicional",
+      "price": 7.50,
+      "image": "https://www.lavanguardia.com/files/image_607_298/uploads/2020/06/15/5ee7403741791.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Lasaña de berenjenas",
+      "ingredients": "Berenjenas, salsa de tomate,mozzarella y pasta.",
+      "price": 7.45,
+      "image": "https://www.lavanguardia.com/files/image_607_298/uploads/2019/07/18/5e9981f8a47c0.jpeg"
     }
-         ]
+  ]
 }
-
-  
